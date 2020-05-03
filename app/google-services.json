@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792809797906",
+    "firebase_url": "https://zwinger-task-1.firebaseio.com",
+    "project_id": "zwinger-task-1",
+    "storage_bucket": "zwinger-task-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792809797906:android:801778df4fd5de4c09dbcb",
+        "android_client_info": {
+          "package_name": "com.example.groceryapp_zwinger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792809797906-0f1mhenh1h4dieglmk927kiln5dmltdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groceryapp_zwinger",
+            "certificate_hash": "a90515effb350f5286633aaf487fabcd87f48543"
+          }
+        },
+        {
+          "client_id": "792809797906-eutfbkf7and1vlo0a30aernm5fa3dpab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKLESshDxkqtd29FU7PfPtIBIfPKaTTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792809797906-eutfbkf7and1vlo0a30aernm5fa3dpab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
